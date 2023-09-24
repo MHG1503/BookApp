@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\bin\Debug\BTLLLTQ.exe.config
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\bin\Debug\BTLLLTQ.exe
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\bin\Debug\BTLLLTQ.pdb
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.Books.resources
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.Login.resources
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.Splash.resources
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.Properties.Resources.resources
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.Users.resources
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.exe
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.pdb
+C:\Users\Admin\source\repos\BTLLLTQ\BTLLLTQ\obj\Debug\BTLLLTQ.FORMS.Dashboard.resources
